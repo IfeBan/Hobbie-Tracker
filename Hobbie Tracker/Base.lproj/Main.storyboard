@@ -98,10 +98,10 @@
             </objects>
             <point key="canvasLocation" x="266.66666666666669" y="90.401785714285708"/>
         </scene>
-        <!--View Controller-->
+        <!--Friend Detail View Controller-->
         <scene sceneID="x9D-w9-b65">
             <objects>
-                <viewController id="XeF-JP-5fc" sceneMemberID="viewController">
+                <viewController id="XeF-JP-5fc" customClass="FriendDetailViewController" customModule="Hobbie_Tracker" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="cGk-WE-vEe">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

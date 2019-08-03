@@ -15,6 +15,7 @@
 		9DD518AA22F0EE6F004FD5FB /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD518A922F0EE6F004FD5FB /* Friend.swift */; };
 		9DD518AC22F0F03D004FD5FB /* FriendTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD518AB22F0F03D004FD5FB /* FriendTableViewCell.swift */; };
 		9DD518B122F0FDC3004FD5FB /* AddFriendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD518B022F0FDC3004FD5FB /* AddFriendViewController.swift */; };
+		9DD518B322F10DEE004FD5FB /* FriendDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DD518B222F10DEE004FD5FB /* FriendDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9DD518A922F0EE6F004FD5FB /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Friend.swift; path = ../Friend.swift; sourceTree = "<group>"; };
 		9DD518AB22F0F03D004FD5FB /* FriendTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendTableViewCell.swift; sourceTree = "<group>"; };
 		9DD518B022F0FDC3004FD5FB /* AddFriendViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddFriendViewController.swift; sourceTree = "<group>"; };
+		9DD518B222F10DEE004FD5FB /* FriendDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			children = (
 				9DD518A722F0A612004FD5FB /* FriendTableViewController.swift */,
 				9DD518B022F0FDC3004FD5FB /* AddFriendViewController.swift */,
+				9DD518B222F10DEE004FD5FB /* FriendDetailViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -170,6 +173,7 @@
 			files = (
 				9DD5187822EA906D004FD5FB /* AppDelegate.swift in Sources */,
 				9DD518AC22F0F03D004FD5FB /* FriendTableViewCell.swift in Sources */,
+				9DD518B322F10DEE004FD5FB /* FriendDetailViewController.swift in Sources */,
 				9DD518B122F0FDC3004FD5FB /* AddFriendViewController.swift in Sources */,
 				9DD518A822F0A612004FD5FB /* FriendTableViewController.swift in Sources */,
 				9DD518AA22F0EE6F004FD5FB /* Friend.swift in Sources */,
